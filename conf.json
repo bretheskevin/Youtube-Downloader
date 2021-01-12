@@ -1,0 +1,69 @@
+{
+  "EN": {
+    "buttonMP3": {
+      "x": 85,
+      "y": 28,
+      "padx": 36
+    },
+    "buttonMP4": {
+      "x": 250,
+      "y": 28,
+      "padx": 36
+    },
+    "buttonClear": {
+      "x": 425,
+      "y": 0,
+      "padx": 15
+    },
+    "buttonPaste": {
+      "x": 425,
+      "y": 28,
+      "padx": 15
+    },
+    "Downloaded": {
+      "x": 360
+    },
+    "Downloading": {
+      "x": 393
+    },
+    "buttonBrowse": {
+      "x": 425,
+      "y": 100,
+      "padx": 10
+    }
+  },
+
+  "FR": {
+    "buttonMP3": {
+      "x": 82,
+      "y": 28,
+      "padx": 22
+    },
+    "buttonMP4": {
+      "x": 252,
+      "y": 28,
+      "padx": 22
+    },
+    "buttonClear": {
+      "x": 425,
+      "y": 0,
+      "padx": 14
+    },
+    "buttonPaste": {
+      "x": 425,
+      "y": 28,
+      "padx": 15
+    },
+    "Downloaded": {
+      "x": 363
+    },
+    "Downloading": {
+      "x": 330
+    },
+    "buttonBrowse": {
+      "x": 425,
+      "y": 100,
+      "padx": 8
+    }
+  }
+}
