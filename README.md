@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@bretheskevin](https://twitter.com/bretheskevin) - bretheskevin@gmail.com
+Brèthes Kévin - [@bretheskevin](https://twitter.com/bretheskevin) - bretheskevin@gmail.com
 
 Project Link: [https://github.com/bretheskevin/Youtube-Downloader](https://github.com/bretheskevin/Youtube-Downloader)
 
