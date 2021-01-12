@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/bretheskevin/Youtube-Downloader.git">
-    <img src="utils/log.ico" alt="Logo" width="80" height="80">
+    <img src="https://i.imgur.com/aYj8bPl.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Youtube Downloader</h3>
