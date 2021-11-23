@@ -51,9 +51,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Youtube Downloader is a software that allows you to download mp3 and mp4 files by using a YouTube url.<br />
-Made for Windows
+Youtube Downloader is a software that allows you to download mp3 and mp4 files by using a YouTube URL.<br />
 
+![alt text](utils/screenshot.png)
 
 ### Built With
 
